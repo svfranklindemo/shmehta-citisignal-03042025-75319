@@ -1,7 +1,19 @@
 {
-  "mappings": [
-    "/content/pbakliwal/eds-crosswalk-source/:/",
-    "/content/pbakliwal/eds-crosswalk-source/metadata.json:/metadata.json",
-    "/content/pbakliwal/eds-crosswalk-source/redirects.json:/redirects.json"
-  ]
+    "mappings": [
+      "/content/shmehta/shmehta-testing-03042025-02/:/",
+      "/content/shmehta/shmehta-testing-03042025-02/configuration:/.helix/config.json",
+      "/content/shmehta/shmehta-testing-03042025-02/metadata:/metadata.json",
+      "/content/shmehta/shmehta-testing-03042025-02/configs:/configs.json",
+      "/content/shmehta/shmehta-testing-03042025-02/configs-stage:/configs-stage.json",
+      "/content/shmehta/shmehta-testing-03042025-02/configs-dev:/configs-dev.json",
+      "/content/shmehta/shmehta-testing-03042025-02/redirects:/redirects.json",
+      "/content/shmehta/shmehta-testing-03042025-02/placeholders:/placeholders.json",
+      "/content/shmehta/shmehta-testing-03042025-02/products/recommended-products:/products/recommended-products.json",
+      "/content/shmehta/shmehta-testing-03042025-02/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/shmehta/shmehta-testing-03042025-02/images/products/:/images/products/"
+    ],
+    "includes": [
+      "/content/shmehta/shmehta-testing-03042025-02",
+      "/content/dam/citisignal/images/products/"
+    ]
 }
